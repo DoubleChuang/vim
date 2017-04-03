@@ -1,5 +1,5 @@
 
-# [安裝][^first]
+# [安裝]
 * 使用`vim ~/.vimrc`修改想要的配置可參考 [^first][^second][^third]
 
 * 或是使用我的<i class="fa fa-clipboard"></i> `.vimrc`
