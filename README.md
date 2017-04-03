@@ -5,10 +5,10 @@
 * 或是使用我的<i class="fa fa-clipboard"></i> `.vimrc`
 
 * 安裝 **Minimalist Vim Plugin Manager** [^forth] 
-    ```md=
-	    curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+   
+` curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 		    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
-			```
+			`
 
 * 打開改好的`vim ~/.vimrc` 
 * 命令模式輸入`:PlugInstall`
